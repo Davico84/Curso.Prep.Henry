@@ -1,0 +1,34 @@
+
+        div {
+             height: 200px;
+             width: 200px;  
+              
+        }
+        .divclass1 {
+            color: brown;
+            
+        }
+        #thirdDiv {
+            color:red;
+            width: 500px;
+            height: 600px;
+            background-color: aquamarine;
+            padding: 50px;
+            border: 10px;
+            border-color: black;
+            border-style: dashed;
+            
+        }
+        
+        #spanId{
+            margin: 50px;
+            font-size: 18px;  
+        }
+        h1 {
+            color :blue;
+        }
+        img {
+            width: 400px;
+        }
+
+   
